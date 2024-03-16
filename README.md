@@ -11,7 +11,7 @@ I'm the founder of a startup focused on innovating through technology. Currently
 
 ## Connect with Me
 - 📫 **How to reach me:** [oguzburhn@gmail.com](mailto:oguzburhn@gmail.com)
-- 👔 **LinkedIn:** [www.linkedin.com/in/oguzhan-burhan-628a5b130](www.linkedin.com/in/oguzhan-burhan-628a5b130)
+- 👔 **LinkedIn:** [www.linkedin.com/in/oguzhan-burhan-628a5b130](https://www.linkedin.com/in/oguzhan-burhan-628a5b130)
 
 
 ## Languages and Tools:
