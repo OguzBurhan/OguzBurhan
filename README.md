@@ -6,7 +6,6 @@ I'm the founder of a startup focused on innovating through technology. Currently
 - 🔭 **I’m currently working on:** My startup's web app.
 - 🌱 **I’m currently learning:** Solidity for blockchain applications and diving deep into Machine Learning concepts.
 - 🤔 **I’m looking for help with:** Enhancing my skills in Solidity to build robust blockchain applications.
-- 💬 **Ask me about:** Anything related to React Native, Express.js, starting a tech business, or venturing into the world of blockchain and AI.
 - 📝 **Note:** Some of my repositories are private for security purposes, but I'm open to discussing my projects one-on-one.
 
 ## Connect with Me
