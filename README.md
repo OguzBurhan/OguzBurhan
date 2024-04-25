@@ -1,7 +1,8 @@
 # Hi there, I'm Oguz 👋
 
 ## About Me
-I'm the founder of a startup focused on innovating through technology. Currently, our main project involves developing a web application using React and Express.js. My journey in tech is fueled by a passion for learning and an ambition to make a meaningful impact.
+
+Hello! I'm a passionate software developer with a love for creating beautiful and functional web applications. With a background in computer science and a keen eye for design, I blend technical skills with creativity to build user-friendly experiences. I specialize in back-end development, particularly with JavaScript, and I'm always eager to learn new technologies and frameworks to enhance my work.
 
 - 🔭 **I’m currently working on:** My startup's web app.
 - 🌱 **I’m currently learning:** Solidity for blockchain applications and diving deep into Machine Learning concepts.
