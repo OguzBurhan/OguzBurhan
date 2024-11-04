@@ -4,8 +4,8 @@
 
 Hello! I'm a passionate software developer with a love for creating beautiful and functional web applications. With a background in computer science and a keen eye for design, I blend technical skills with creativity to build user-friendly experiences. I specialize in back-end development, particularly with JavaScript, and I'm always eager to learn new technologies and frameworks to enhance my work.
 
-- 🔭 **I’m currently working on:** My startup's web app.
-- 🌱 **I’m currently learning:** Solidity for blockchain applications and diving deep into Machine Learning concepts.
+- 🔭 **I’m currently working with Salesforce Marketing Cloud.
+- 🌱 **I’m currently learning:** Lightning components and AppExchange to build salesforce applications.
 - 🤔 **I’m looking for help with:** Enhancing my skills in Solidity to build robust blockchain applications.
 - 📝 **Note:** Some of my repositories are private for security purposes, but I'm open to discussing my projects one-on-one.
 
